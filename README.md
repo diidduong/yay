@@ -1,5 +1,5 @@
 # You And Yourself
-A Full-stack Project (Movie API Webapp) that summarizes my skills and experience as a Software Engineer.
+A Back-end code of a Full-stack Project (Movie API Webapp) that summarizes my skills and experience as a Software Engineer. Front-end code can be found at https://github.com/diidduong/yay-client
 
 ## Project Tracking
 Jira + Github Cloud
