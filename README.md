@@ -1,6 +1,9 @@
 # You And Yourself
 A Back-end code of a Full-stack Project (Movie API Webapp) that summarizes my skills and experience as a Software Engineer. Front-end code can be found at https://github.com/diidduong/yay-client
 
+## Guideline
+You can checkout full tutorial at https://www.youtube.com/watch?v=5PdEmeopJVQ
+
 ## Management Tool
 I use **Jira** integrated with **Github Cloud** to manage this project's tasks.
 
